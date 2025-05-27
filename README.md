@@ -21,19 +21,17 @@ Institution: University of Texas at Arlington, Psychology Department
 * Independent samples t-tests for hypothesis testing
 
 🔍 Key Findings
+
 ✅ Patients showed a significant bias toward female doctors for likelihood of selection
-
 ✅ Older doctors were perceived as significantly more competent
-
 ❌ No significant difference in comfort levels with younger doctors or female providers
 
+
 📁 Repository Contents
+
 ``Final_Manuscript.pdf``: Full research paper
-
 ``Drafts``: Covers each step in research
-
 ``SPSS``: SPSS dataa before and after cleaning
-
 
 
 🧪 Skills & Tools Used
