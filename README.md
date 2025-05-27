@@ -1,4 +1,4 @@
-## 🧠 Implicit Bias in Healthcare — Psychology Research Project
+# 🧠 Implicit Bias in Healthcare — Psychology Research Project
 This project investigates how patients' implicit biases toward healthcare providers' age and gender influence their perceptions and decision-making. We conducted a hypothesis-driven psychological study using a survey-based experiment and statistical analysis.
 
 ## 📌 Project Overview
@@ -10,17 +10,17 @@ Team: Kimberly Rodriguez Torres, Marlenne Luna, Sirjana Yadav, Natalie Pegues, A
 
 Institution: University of Texas at Arlington, Psychology Department
 
-📊 Methodology
+### 📊 Methodology
 - Participants: 86 individuals from diverse age and gender backgrounds
 - Design: Between-subjects experiment (4 conditions: young/old × male/female doctors)
 
-# Tools:
+### Tools:
 
 * Survey hosted on QuestionPro
 * Data analysis conducted using SPSS and Python
 * Independent samples t-tests for hypothesis testing
 
-🔍 Key Findings
+## 🔍 Key Findings
 
 ✅ Patients showed a significant bias toward female doctors for likelihood of selection.
 
@@ -29,7 +29,8 @@ Institution: University of Texas at Arlington, Psychology Department
 ❌ No significant difference in comfort levels with younger doctors or female providers
 
 
-📁 Repository Contents
+
+## 📁 Repository Contents
 
 ``Final_Manuscript.pdf``: Full research paper
 
