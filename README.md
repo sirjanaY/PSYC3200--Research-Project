@@ -39,9 +39,8 @@ Institution: University of Texas at Arlington, Psychology Department
 ``SPSS``: SPSS dataa before and after cleaning
 
 
-🧪 Skills & Tools Used
+## 🧪 Skills & Tools Used
 * Psychological Research Design
 * Hypothesis Testing (t-tests)
 * SPSS Statistics
-* Python (Pandas, matplotlib)
-* Data Cleaning & Visualization
+* Data Cleaning & Visualization strategies
