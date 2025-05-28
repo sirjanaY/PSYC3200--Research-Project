@@ -44,3 +44,5 @@ Institution: University of Texas at Arlington, Psychology Department
 * Hypothesis Testing (t-tests)
 * SPSS Statistics
 * Data Cleaning & Visualization strategies
+
+Link to survey: utaedu.questionpro.com/t/AbWafZ5dm7
